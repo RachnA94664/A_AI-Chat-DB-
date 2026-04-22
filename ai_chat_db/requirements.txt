@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+ipykernel
+pymysql
+fastapi
+uvicorn
+jinja2
+langchain-groq
+langchain-openai
+sqlalchemy
